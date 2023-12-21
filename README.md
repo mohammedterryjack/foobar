@@ -19,7 +19,7 @@ I typed in the help command to see what other things i could do.  It said i coul
     ...
     y = int(x**0.5)**2
     remainder = x - y
-    do_again(y)
+    do_again(x=y)
     ...
 ```
 It gave me 6 days to complete but only took about 15mins or so. I "submit solution.py" and a bunny appears on screen saying I successfully completed level 1! 
@@ -58,7 +58,7 @@ The next night I sat down to attempt the challenge.  It was actually quite a hea
 
 I optimised its code and used its main line of thinking to help solve this challenge.
 
-![screenshots/Screenshot 2023-12-13 at 22.17.06.png]
+![](screenshots/Screenshot 2023-12-13 at 22.17.06.png)
 
 The progress bar for level 3 went up to 33% which told me there were a total of 3 challenges in level 3.  One down, two to go. 
 
