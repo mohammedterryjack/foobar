@@ -10,7 +10,7 @@ To my suprise, the search results fell back revealing a sneak peak at some kind 
 
 ![](screenshots/demo.gif)
 
-There was a simple black screen like a linux terminal. So i typed in a basic command like "ls" to see if there were any files - there were! I was shocked to see a readme.txt and some other files.  It felt discovering a clue in a virtual escape room.  So i immediately typed "cat readme.txt" to open the file and read the clue! It introduced the challenges along with some backstory to go with it (something about saving bunnies).  This was so fun!  
+There was a simple black screen like a linux terminal. So i typed in a basic command like "ls" to see if there were any files - there were! I was shocked to see a readme.txt and some other files.  It felt like I had discovered a clue in an escape room.  So i immediately typed "cat readme.txt" to open the file and read the clue! It introduced the challenges along with some backstory to go with it (something about saving bunnies).  This was so fun!  
 
 ## Level 1
 I typed in the help command to see what other things i could do.  It said i could request a challenge by typing "request".  So naturally I did.  Then a new directory appeared! I cd into the new directory and read the instructions there.  It gives a typical coding challenge with two test cases that i can check my solution against.  I type "edit solution.py" and a blank python function called solution() appears for me to fill out.  I add in my code and test it out on my local terminal to ensure it gets the test cases.  Then i type "verify solution.py" and it runs it on some hidden tests too.  Success! The first challenge was completed.  I can't quite remember what the question was about now - but it was fairly simple requiring a few lines and recursion. The recursion looked something like this:
@@ -58,7 +58,7 @@ The next night I sat down to attempt the challenge.  It was actually quite a hea
 
 I optimised its code and used its main line of thinking to help solve this challenge.
 
-![](screenshots/Screenshot 2023-12-13 at 22.17.06.png)
+![](screenshots/Screenshot_2023-12-13_at_22.17.06.png)
 
 The progress bar for level 3 went up to 33% which told me there were a total of 3 challenges in level 3.  One down, two to go. 
 
